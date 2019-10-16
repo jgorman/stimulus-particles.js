@@ -1,0 +1,29 @@
+{
+  "name": "stimulus-particles.js",
+  "version": "1.0.0",
+  "description": "A Stimulus wrapper for Particles.js under Turbolinks.",
+  "keywords": [
+    "stimulus",
+    "particles.js",
+    "turbolinks"
+  ],
+  "main": "src/index.js",
+  "homepage": "https://github.com/jgorman/stimulus-particles.js#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgorman/stimulus-particles.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jgorman/stimulus-particles.js/issues"
+  },
+  "author": {
+    "name": "John Gorman",
+    "email": "johngorman2@gmail.com",
+    "url": "https://johngorman.io"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "particles.js": "^2.0.0",
+    "stimulus": "^1.1.1"
+  }
+}

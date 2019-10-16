@@ -1,4 +1,4 @@
-# DataTables Stimulus wrapper
+## Particles.js Stimulus Wrapper
 
 A [Stimulus](https://github.com/stimulusjs/stimulus) wrapper for
 [Particles.js](https://github.com/VincentGarreau/particles.js) under

@@ -31,6 +31,7 @@ will need a non-white backgound color in order to see them.
 
 Here is an example of passing an image path from Rails to Particles.js.
 Note that you must set a unique div id or Particles.js will not find it.
+This example is running in the animated gif above.
 
 ```erb
 <div id="particles-image-src"
@@ -41,7 +42,7 @@ Note that you must set a unique div id or Particles.js will not find it.
       shape: {
         type: 'image',
         image: {
-          src: image_path('jg-logo-512x512.png')
+          src: image_path('jg-logo-50x50.png')
         },
       },
       size: {

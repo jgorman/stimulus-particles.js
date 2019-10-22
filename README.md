@@ -8,7 +8,7 @@ A [Stimulus](https://github.com/stimulusjs/stimulus) wrapper for
 
 The controller takes the Particles configuration from the containing div
 on the page. This allows us to pass parameters such as the webpack
-image_path from rails to the Particles instance.
+image_path from Rails to the Particles instance.
 
 Under Turbolinks, navigating away from a Particles page and back without
 cleaning up the running Particles instance would result

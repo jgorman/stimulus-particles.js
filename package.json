@@ -1,6 +1,6 @@
 {
   "name": "stimulus-particles.js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A Stimulus wrapper for Particles.js under Turbolinks.",
   "keywords": [
     "stimulus",
